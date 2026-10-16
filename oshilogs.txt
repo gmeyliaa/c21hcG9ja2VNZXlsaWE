@@ -12,74 +12,80 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Meylia =====
-[1]Meylia      |08:00:42 | 15-10-2026| login OK @gmeyliaa | score=1200 rank=5117
-[1]Meylia      |08:00:42 | 15-10-2026| serverTime=2026-10-15T08:00:42.000Z local=2026-10-15T08:00:42.064Z
+[1]Meylia      |06:38:06 | 16-10-2026| login OK @gmeyliaa | score=1260 rank=4952
+[1]Meylia      |06:38:06 | 16-10-2026| serverTime=2026-10-16T06:38:06.000Z local=2026-10-16T06:38:06.817Z
 --> [1]Meylia menjalankan: Claim Daily
-[1]Meylia      |08:00:43 | 15-10-2026| daily: OK +10 poin score=1210
---> [1]Meylia menjalankan: Auto All Tasks (5 pending)
-[1]Meylia      |08:00:45 | 15-10-2026| [1/5] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/gmeyliaa/status/2110641718691552370
-[1]Meylia      |08:00:45 | 15-10-2026| delay 10s...
-[1]Meylia      |08:00:57 | 15-10-2026| [2/5] ec8513a4 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109
-[1]Meylia      |08:00:57 | 15-10-2026| delay 10s...
-[1]Meylia      |08:01:10 | 15-10-2026| [3/5] 1e029da8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/gmeyliaa/status/2110641788786574752
-[1]Meylia      |08:01:10 | 15-10-2026| delay 10s...
-[1]Meylia      |08:01:22 | 15-10-2026| [4/5] e41210a5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/gmeyliaa/status/2110641781239461148
-[1]Meylia      |08:01:22 | 15-10-2026| delay 10s...
-[1]Meylia      |08:01:35 | 15-10-2026| [5/5] 6ee55c06 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/gmeyliaa/status/2110641655466231691
-[1]Meylia      |08:01:35 | 15-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Meylia      |08:01:36 | 15-10-2026| [1/1] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174412101091 | proof=https://x.com/gmeyliaa/status/2110641949424367799
+[1]Meylia      |06:38:07 | 16-10-2026| daily: OK +10 poin score=1270
+--> [1]Meylia menjalankan: Auto All Tasks (8 pending)
+[1]Meylia      |06:38:10 | 16-10-2026| [1/8] 394defc6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/gmeyliaa/status/2110983059233909042
+[1]Meylia      |06:38:10 | 16-10-2026| delay 10s...
+[1]Meylia      |06:38:22 | 16-10-2026| [2/8] e5b8202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/gmeyliaa/status/2110983345200286215
+[1]Meylia      |06:38:22 | 16-10-2026| delay 10s...
+[1]Meylia      |06:38:34 | 16-10-2026| [3/8] 0609cffc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/gmeyliaa/status/2110983146660611313
+[1]Meylia      |06:38:34 | 16-10-2026| delay 10s...
+[1]Meylia      |06:38:47 | 16-10-2026| [4/8] 8f50de21 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/gmeyliaa/status/2110983403227314709
+[1]Meylia      |06:38:47 | 16-10-2026| delay 10s...
+[1]Meylia      |06:39:00 | 16-10-2026| [5/8] 24fb0a1f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/gmeyliaa/status/2110983323872772304
+[1]Meylia      |06:39:00 | 16-10-2026| delay 10s...
+[1]Meylia      |06:39:12 | 16-10-2026| [6/8] f482983d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/gmeyliaa/status/2110983485971752052
+[1]Meylia      |06:39:12 | 16-10-2026| delay 10s...
+[1]Meylia      |06:39:25 | 16-10-2026| [7/8] 3e6dc4ef (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/gmeyliaa/status/2110983448922169307
+[1]Meylia      |06:39:25 | 16-10-2026| delay 10s...
+[1]Meylia      |06:39:37 | 16-10-2026| [8/8] 9918b658 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/gmeyliaa/status/2110983412024226571
+[1]Meylia      |06:39:37 | 16-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Meylia      |06:39:40 | 16-10-2026| [1/1] 394defc6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110706688701735 | proof=https://x.com/gmeyliaa/status/2110983696653202893
 --> [1]Meylia menjalankan: Watch Anime
-[1]Meylia      |08:01:38 | 15-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Meylia      |08:01:38 | 15-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Meylia      |06:39:41 | 16-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Meylia      |06:39:41 | 16-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Meylia      |08:01:40 | 15-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Meylia      |08:01:45 | 15-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Meylia      |08:01:47 | 15-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Meylia      |08:01:52 | 15-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Meylia      |08:01:54 | 15-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Meylia      |06:39:43 | 16-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Meylia      |06:39:48 | 16-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Meylia      |06:39:50 | 16-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Meylia      |06:39:55 | 16-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Meylia      |06:39:57 | 16-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Meylia menjalankan: Read Article
-[1]Meylia      |08:01:56 | 15-10-2026| news: 25/26 artikel selesai dibaca
-[1]Meylia      |08:01:57 | 15-10-2026| mint eligibility: {"userId":"1621209539675832320","youtube":{"url":"https://www.youtube.com/@meyliaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady
-[1]Meylia      |08:02:04 | 15-10-2026| news [1/1] 100-friends-connected-by-what-we-love: OK completed=26
+[1]Meylia      |06:39:58 | 16-10-2026| news: 26/27 artikel selesai dibaca
+[1]Meylia      |06:39:59 | 16-10-2026| mint eligibility: {"userId":"1621209539675832320","youtube":{"url":"https://www.youtube.com/@meyliaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady
+[1]Meylia      |06:40:06 | 16-10-2026| news [1/1] smart-pocket-800000-battles: OK completed=27
 --> [1]Meylia menjalankan: Quiz Anime
-[1]Meylia      |08:02:07 | 15-10-2026| quiz ep1: sudah dijawab
-[1]Meylia      |08:02:07 | 15-10-2026| quiz ep2: sudah dijawab
-[1]Meylia      |08:02:07 | 15-10-2026| quiz ep3: sudah dijawab
-[1]Meylia      |08:02:07 | 15-10-2026| quiz ep4: sudah dijawab
-[1]Meylia      |08:02:07 | 15-10-2026| quiz ep5: sudah dijawab
-[1]Meylia      |08:02:07 | 15-10-2026| quiz ep6: sudah dijawab
+[1]Meylia      |06:40:09 | 16-10-2026| quiz ep1: sudah dijawab
+[1]Meylia      |06:40:09 | 16-10-2026| quiz ep2: sudah dijawab
+[1]Meylia      |06:40:09 | 16-10-2026| quiz ep3: sudah dijawab
+[1]Meylia      |06:40:09 | 16-10-2026| quiz ep4: sudah dijawab
+[1]Meylia      |06:40:09 | 16-10-2026| quiz ep5: sudah dijawab
+[1]Meylia      |06:40:09 | 16-10-2026| quiz ep6: sudah dijawab
 --> [1]Meylia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Meylia      |08:02:09 | 15-10-2026| music: kedua misi sudah tercapai, stop
-[1]Meylia      |08:02:10 | 15-10-2026| mission music-listens-10: sudah diklaim
-[1]Meylia      |08:02:10 | 15-10-2026| mission music-minutes-30: sudah diklaim
-[1]Meylia      |08:02:10 | 15-10-2026| mission anime-completed-3: sudah diklaim
+[1]Meylia      |06:40:11 | 16-10-2026| music: kedua misi sudah tercapai, stop
+[1]Meylia      |06:40:12 | 16-10-2026| mission music-listens-10: sudah diklaim
+[1]Meylia      |06:40:12 | 16-10-2026| mission music-minutes-30: sudah diklaim
+[1]Meylia      |06:40:12 | 16-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Meylia menjalankan: Claim Missions
-[1]Meylia      |08:02:10 | 15-10-2026| mission music-listens-10: sudah diklaim
-[1]Meylia      |08:02:10 | 15-10-2026| mission music-minutes-30: sudah diklaim
-[1]Meylia      |08:02:10 | 15-10-2026| mission anime-completed-3: sudah diklaim
+[1]Meylia      |06:40:13 | 16-10-2026| mission music-listens-10: sudah diklaim
+[1]Meylia      |06:40:13 | 16-10-2026| mission music-minutes-30: sudah diklaim
+[1]Meylia      |06:40:13 | 16-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Meylia menjalankan: Check Eligibility
 
 --- eligibility [1]Meylia ---
-  @gmeyliaa | score=1200 rank=5117
-  tasks    [###################-] 72/77
+  @gmeyliaa | score=1260 rank=4952
+  tasks    [##################--] 75/83
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 26/26
+  artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Meylia menjalankan: Read Manga
-[1]Meylia      |08:02:15 | 15-10-2026| manga: 0/13 chapter belum completed
+[1]Meylia      |06:40:17 | 16-10-2026| manga: 0/13 chapter belum completed
 --> [1]Meylia menjalankan: Get Gift
-[1]Meylia      |08:02:16 | 15-10-2026| gift: 0/4 belum diterima
+[1]Meylia      |06:40:18 | 16-10-2026| gift: 0/4 belum diterima
 --> [1]Meylia menjalankan: Setup Profile
-[1]Meylia      |08:02:17 | 15-10-2026| profile: bio="https://x.com/gmeyliaa" fav=yuki rewardAt=1791682011
-[1]Meylia      |08:02:17 | 15-10-2026| profile: bonus sudah diklaim, skip
+[1]Meylia      |06:40:18 | 16-10-2026| profile: bio="https://x.com/gmeyliaa" fav=yuki rewardAt=1791682011
+[1]Meylia      |06:40:18 | 16-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Meylia menjalankan: Bind Wallet
-[1]Meylia      |08:02:18 | 15-10-2026| wallet: sudah terikat 9JQUNRx1qS... (solana)
+[1]Meylia      |06:40:19 | 16-10-2026| wallet: sudah terikat 9JQUNRx1qS... (solana)
 
 == RINGKASAN ==
-- Meylia: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Meylia: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
