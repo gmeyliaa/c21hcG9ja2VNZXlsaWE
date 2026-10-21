@@ -12,105 +12,119 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Meylia =====
-[1]Meylia      |09:19:33 | 20-10-2026| login OK @gmeyliaa | score=1550 rank=4515
-[1]Meylia      |09:19:33 | 20-10-2026| serverTime=2026-10-20T09:19:33.000Z local=2026-10-20T09:19:33.263Z
+[1]Meylia      |09:43:24 | 21-10-2026| login OK @gmeyliaa | score=1620 rank=4377
+[1]Meylia      |09:43:24 | 21-10-2026| serverTime=2026-10-21T09:43:24.000Z local=2026-10-21T09:43:24.826Z
 --> [1]Meylia menjalankan: Claim Daily
-[1]Meylia      |09:19:34 | 20-10-2026| daily: OK +10 poin score=1560
+[1]Meylia      |09:43:25 | 21-10-2026| daily: OK +10 poin score=1630
 --> [1]Meylia menjalankan: Auto All Tasks (6 pending)
-[1]Meylia      |09:19:36 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gmeyliaa/status/2112473383429643679
-[1]Meylia      |09:19:36 | 20-10-2026| delay 10s...
-[1]Meylia      |09:19:48 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gmeyliaa/status/2112473462665931465
-[1]Meylia      |09:19:48 | 20-10-2026| delay 10s...
-[1]Meylia      |09:20:00 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gmeyliaa/status/2112473413375903243
-[1]Meylia      |09:20:00 | 20-10-2026| delay 10s...
-[1]Meylia      |09:20:24 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gmeyliaa/status/2112473392772764366
-[1]Meylia      |09:20:24 | 20-10-2026| delay 10s...
-[1]Meylia      |09:20:36 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gmeyliaa/status/2112473482769634462
-[1]Meylia      |09:20:36 | 20-10-2026| delay 10s...
-[1]Meylia      |09:20:48 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/gmeyliaa/status/2112473512370853671
-[1]Meylia      |09:20:48 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Meylia      |09:20:49 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/gmeyliaa/status/2112473776431633947
+[1]Meylia      |09:43:27 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gmeyliaa/status/2112841822934922631
+[1]Meylia      |09:43:27 | 21-10-2026| delay 10s...
+[1]Meylia      |09:43:40 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gmeyliaa/status/2112841878302159209
+[1]Meylia      |09:43:40 | 21-10-2026| delay 10s...
+[1]Meylia      |09:43:52 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gmeyliaa/status/2112841821852908486
+[1]Meylia      |09:43:52 | 21-10-2026| delay 10s...
+[1]Meylia      |09:44:04 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gmeyliaa/status/2112841998868327220
+[1]Meylia      |09:44:04 | 21-10-2026| delay 10s...
+[1]Meylia      |09:44:16 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/gmeyliaa/status/2112841842817404715
+[1]Meylia      |09:44:16 | 21-10-2026| delay 10s...
+[1]Meylia      |09:44:28 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Meylia      |09:44:28 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Meylia      |09:44:30 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/gmeyliaa/status/2112842179545805944
 --> [1]Meylia menjalankan: Watch Anime
-[1]Meylia      |09:20:50 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Meylia      |09:20:50 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Meylia      |09:20:52 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Meylia      |09:21:00 | 20-10-2026| watch oshi-captains-hat: 5% (5.52/92.00s)
-[1]Meylia      |09:21:06 | 20-10-2026| watch oshi-captains-hat: 12% (11.63/92.00s)
-[1]Meylia      |09:21:13 | 20-10-2026| watch oshi-captains-hat: 19% (17.94/92.00s)
-[1]Meylia      |09:21:19 | 20-10-2026| watch oshi-captains-hat: 26% (24.04/92.00s)
-[1]Meylia      |09:21:25 | 20-10-2026| watch oshi-captains-hat: 32% (29.56/92.00s)
-[1]Meylia      |09:21:31 | 20-10-2026| watch oshi-captains-hat: 38% (35.11/92.00s)
-[1]Meylia      |09:21:37 | 20-10-2026| watch oshi-captains-hat: 44% (40.65/92.00s)
-[1]Meylia      |09:21:43 | 20-10-2026| watch oshi-captains-hat: 50% (46.30/92.00s)
-[1]Meylia      |09:21:50 | 20-10-2026| watch oshi-captains-hat: 56% (51.78/92.00s)
-[1]Meylia      |09:21:56 | 20-10-2026| watch oshi-captains-hat: 62% (57.36/92.00s)
-[1]Meylia      |09:22:03 | 20-10-2026| watch oshi-captains-hat: 68% (62.87/92.00s)
-[1]Meylia      |09:22:09 | 20-10-2026| watch oshi-captains-hat: 75% (69.06/92.00s)
-[1]Meylia      |09:22:15 | 20-10-2026| watch oshi-captains-hat: 81% (74.68/92.00s)
-[1]Meylia      |09:22:21 | 20-10-2026| watch oshi-captains-hat: 87% (80.17/92.00s)
-[1]Meylia      |09:22:28 | 20-10-2026| watch oshi-captains-hat: 93% (85.66/92.00s)
-[1]Meylia      |09:22:28 | 20-10-2026| watch oshi-captains-hat: COMPLETED (85.66/92.00s)
-[1]Meylia      |09:22:33 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Meylia      |09:22:35 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Meylia      |09:22:41 | 20-10-2026| watch oshi-rainbow-star: 6% (5.20/86.00s)
-[1]Meylia      |09:22:47 | 20-10-2026| watch oshi-rainbow-star: 12% (10.82/86.00s)
-[1]Meylia      |09:22:53 | 20-10-2026| watch oshi-rainbow-star: 19% (16.39/86.00s)
-[1]Meylia      |09:22:59 | 20-10-2026| watch oshi-rainbow-star: 25% (21.98/86.00s)
-[1]Meylia      |09:23:06 | 20-10-2026| watch oshi-rainbow-star: 31% (27.48/86.00s)
-[1]Meylia      |09:23:12 | 20-10-2026| watch oshi-rainbow-star: 38% (33.05/86.00s)
-[1]Meylia      |09:23:18 | 20-10-2026| watch oshi-rainbow-star: 44% (38.56/86.00s)
-[1]Meylia      |09:23:25 | 20-10-2026| watch oshi-rainbow-star: 51% (44.07/86.00s)
-[1]Meylia      |09:23:31 | 20-10-2026| watch oshi-rainbow-star: 58% (50.12/86.00s)
-[1]Meylia      |09:23:37 | 20-10-2026| watch oshi-rainbow-star: 64% (55.68/86.00s)
-[1]Meylia      |09:23:43 | 20-10-2026| watch oshi-rainbow-star: 71% (61.39/86.00s)
-[1]Meylia      |09:23:51 | 20-10-2026| watch oshi-rainbow-star: 78% (67.10/86.00s)
-[1]Meylia      |09:23:57 | 20-10-2026| watch oshi-rainbow-star: 85% (73.51/86.00s)
-[1]Meylia      |09:24:04 | 20-10-2026| watch oshi-rainbow-star: 92% (79.43/86.00s)
-[1]Meylia      |09:24:04 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (79.43/86.00s)
-[1]Meylia      |09:24:09 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Meylia      |09:24:11 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Meylia      |09:24:17 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.24/87.00s)
-[1]Meylia      |09:24:23 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.77/87.00s)
-[1]Meylia      |09:24:30 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (16.47/87.00s)
-[1]Meylia      |09:24:36 | 20-10-2026| watch oshi-rainbow-lighthouse: 25% (21.99/87.00s)
-[1]Meylia      |09:24:42 | 20-10-2026| watch oshi-rainbow-lighthouse: 31% (27.60/87.00s)
-[1]Meylia      |09:24:48 | 20-10-2026| watch oshi-rainbow-lighthouse: 38% (33.20/87.00s)
-[1]Meylia      |09:24:54 | 20-10-2026| watch oshi-rainbow-lighthouse: 44% (38.81/87.00s)
-[1]Meylia      |09:25:01 | 20-10-2026| watch oshi-rainbow-lighthouse: 50% (44.37/87.00s)
-[1]Meylia      |09:25:07 | 20-10-2026| watch oshi-rainbow-lighthouse: 57% (49.90/87.00s)
-[1]Meylia      |09:25:14 | 20-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
-[1]Meylia      |09:25:20 | 20-10-2026| watch oshi-rainbow-lighthouse: heartbeat GAGAL http=503
-[1]Meylia      |09:25:25 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Meylia      |09:25:25 | 20-10-2026| watch bakeru-ikesou-jan-mv: start GAGAL http=503
+[1]Meylia      |09:44:30 | 21-10-2026| watch: 2 video belum completed: oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Meylia      |09:44:30 | 21-10-2026| watch [1/2] farming oshi-rainbow-lighthouse...
+[1]Meylia      |09:44:31 | 21-10-2026| watch oshi-rainbow-lighthouse: mulai dari 0 (record 55.5s diabaikan)
+[1]Meylia      |09:44:32 | 21-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
+[1]Meylia      |09:44:39 | 21-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
+[1]Meylia      |09:44:46 | 21-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
+[1]Meylia      |09:44:52 | 21-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
+[1]Meylia      |09:44:58 | 21-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
+[1]Meylia      |09:45:05 | 21-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
+[1]Meylia      |09:45:11 | 21-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
+[1]Meylia      |09:45:18 | 21-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
+[1]Meylia      |09:45:24 | 21-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
+[1]Meylia      |09:45:30 | 21-10-2026| watch oshi-rainbow-lighthouse: 63% (55.47/87.00s)
+[1]Meylia      |09:45:37 | 21-10-2026| watch oshi-rainbow-lighthouse: 66% (57.65/87.00s)
+[1]Meylia      |09:45:43 | 21-10-2026| watch oshi-rainbow-lighthouse: 73% (63.64/87.00s)
+[1]Meylia      |09:45:50 | 21-10-2026| watch oshi-rainbow-lighthouse: 79% (69.39/87.00s)
+[1]Meylia      |09:45:56 | 21-10-2026| watch oshi-rainbow-lighthouse: 86% (74.90/87.00s)
+[1]Meylia      |09:46:02 | 21-10-2026| watch oshi-rainbow-lighthouse: 92% (80.37/87.00s)
+[1]Meylia      |09:46:02 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (80.37/87.00s)
+[1]Meylia      |09:46:07 | 21-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
+[1]Meylia      |09:46:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Meylia      |09:46:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.12/181.00s)
+[1]Meylia      |09:46:21 | 21-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.56/181.00s)
+[1]Meylia      |09:46:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 8% (15.93/181.00s)
+[1]Meylia      |09:46:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (21.79/181.00s)
+[1]Meylia      |09:46:41 | 21-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.32/181.00s)
+[1]Meylia      |09:46:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.50/181.00s)
+[1]Meylia      |09:46:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.12/181.00s)
+[1]Meylia      |09:46:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 24% (44.60/181.00s)
+[1]Meylia      |09:47:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 27% (50.02/181.00s)
+[1]Meylia      |09:47:11 | 21-10-2026| watch bakeru-ikesou-jan-mv: 30% (55.40/181.00s)
+[1]Meylia      |09:47:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (60.80/181.00s)
+[1]Meylia      |09:47:24 | 21-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.62/181.00s)
+[1]Meylia      |09:47:30 | 21-10-2026| watch bakeru-ikesou-jan-mv: 39% (72.11/181.00s)
+[1]Meylia      |09:47:36 | 21-10-2026| watch bakeru-ikesou-jan-mv: 43% (77.98/181.00s)
+[1]Meylia      |09:47:42 | 21-10-2026| watch bakeru-ikesou-jan-mv: 46% (83.49/181.00s)
+[1]Meylia      |09:47:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 49% (89.10/181.00s)
+[1]Meylia      |09:47:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 52% (94.83/181.00s)
+[1]Meylia      |09:48:01 | 21-10-2026| watch bakeru-ikesou-jan-mv: 55% (100.42/181.00s)
+[1]Meylia      |09:48:08 | 21-10-2026| watch bakeru-ikesou-jan-mv: 58% (105.91/181.00s)
+[1]Meylia      |09:48:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 61% (111.72/181.00s)
+[1]Meylia      |09:48:20 | 21-10-2026| watch bakeru-ikesou-jan-mv: 64% (117.30/181.00s)
+[1]Meylia      |09:48:26 | 21-10-2026| watch bakeru-ikesou-jan-mv: 67% (122.70/181.00s)
+[1]Meylia      |09:48:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: 70% (128.06/181.00s)
+[1]Meylia      |09:48:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 74% (134.34/181.00s)
+[1]Meylia      |09:48:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.12/181.00s)
+[1]Meylia      |09:48:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 80% (146.47/181.00s)
+[1]Meylia      |09:48:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 84% (152.54/181.00s)
+[1]Meylia      |09:49:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.00/181.00s)
+[1]Meylia      |09:49:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.46/181.00s)
+[1]Meylia      |09:49:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.46/181.00s)
 --> [1]Meylia menjalankan: Read Article
-[1]Meylia      |09:25:26 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Meylia      |09:49:14 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Meylia      |09:49:14 | 21-10-2026| mint eligibility: {"userId":"1621209539675832320","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@meyliaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Meylia      |09:49:21 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Meylia menjalankan: Quiz Anime
-[1]Meylia      |09:25:26 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Meylia      |09:49:23 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Meylia      |09:49:23 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Meylia      |09:49:23 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Meylia      |09:49:23 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Meylia      |09:49:23 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Meylia      |09:49:23 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Meylia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Meylia      |09:25:26 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Meylia      |09:25:26 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Meylia      |09:49:25 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Meylia      |09:49:25 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Meylia      |09:49:25 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Meylia      |09:49:25 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Meylia menjalankan: Claim Missions
-[1]Meylia      |09:25:27 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Meylia      |09:49:26 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Meylia      |09:49:26 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Meylia      |09:49:26 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Meylia menjalankan: Check Eligibility
 
 --- eligibility [1]Meylia ---
-  @gmeyliaa | score=1550 rank=4515
-  tasks    [##################--] 73/79
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @gmeyliaa | score=1620 rank=4377
+  tasks    [###################-] 74/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 22/17
+  music    [####################] 11/11
+  artikel  [####################] 27/27
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Meylia menjalankan: Read Manga
-[1]Meylia      |09:25:28 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Meylia      |09:49:31 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Meylia menjalankan: Get Gift
-[1]Meylia      |09:25:28 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Meylia      |09:49:31 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Meylia menjalankan: Setup Profile
-[1]Meylia      |09:25:28 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Meylia      |09:49:32 | 21-10-2026| profile: bio="https://x.com/gmeyliaa" fav=yuki rewardAt=1791682011
+[1]Meylia      |09:49:32 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Meylia menjalankan: Bind Wallet
-[1]Meylia      |09:25:28 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Meylia      |09:49:32 | 21-10-2026| wallet: sudah terikat 9JQUNRx1qS... (solana)
 
 == RINGKASAN ==
-- Meylia: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Meylia: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
